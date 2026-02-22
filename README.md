@@ -73,15 +73,14 @@ The report includes three slicers to enable dynamic analysis:
 These controls allow users to quickly explore performance trends across time, channels, and day types.
 
 # Key Performance Metrics
-• Total Spend: $130.24K
-
-• Total Impressions: 40.47M
-• Total Clicks: 688.33K
-• Total Conversions: 13.36K
-• CTR: 1.70%
-• CPC: $0.19
-• Conversion Rate: 1.94%
-• CPA: $9.75
+• Total Spend: $130.24K 
+• Total Impressions: 40.47M 
+• Total Clicks: 688.33K 
+• Total Conversions: 13.36K 
+• CTR: 1.70% 
+• CPC: $0.19 
+• Conversion Rate: 1.94% 
+• CPA: $9.75 
 Overall, the campaigns generate strong reach and engagement at a relatively low cost per click, with opportunities to further optimize acquisition efficiency.
 
 # Channel-Level Insights
