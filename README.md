@@ -1,7 +1,9 @@
 # Marketing-Analytics
-CROSS-CHANNEL MARKETING PERFORMANCE DASHBOARD
+# CROSS-CHANNEL MARKETING PERFORMANCE DASHBOARD
 
 Analyzing spend efficiency, engagement, and conversions across channels to optimize marketing performance.
+
+<img width="1425" height="796" alt="image" src="https://github.com/user-attachments/assets/be95e160-c049-419d-a2fe-011ae7e5d625" />
 
 # Overview
 This dashboard presents an integrated view of cross-channel marketing performance across TikTok, Google, and Facebook. It tracks spend, engagement, and acquisition efficiency to help identify optimization opportunities and support data-driven budget decisions.
