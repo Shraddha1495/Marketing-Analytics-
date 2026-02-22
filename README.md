@@ -10,6 +10,11 @@ This dashboard presents an integrated view of cross-channel marketing performanc
 ## Link to live dashboard
 https://app.powerbi.com/view?r=eyJrIjoiOTk1ZGRmOWQtZGUyNC00NTQzLWIyZDAtM2RiOTg4YzA3NDAwIiwidCI6IjRiNGM1YWRkLTJjZWItNDIwYi1iYzZmLTRmOGU1YjI5NDdiZCJ9
 
+## Built With
+- **Snowflake** – Cloud data warehouse  
+- **Power BI** – Data visualization  
+- **SQL** – Data transformation  
+
 # Data Architecture & Integration
 - **Snowflake** was used as the cloud data warehouse to store and prepare the marketing datasets before visualization.
 - A database named MK_DB was created in Snowflake.
