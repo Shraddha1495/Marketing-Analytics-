@@ -11,12 +11,12 @@ This dashboard presents an integrated view of cross-channel marketing performanc
 https://app.powerbi.com/view?r=eyJrIjoiOTk1ZGRmOWQtZGUyNC00NTQzLWIyZDAtM2RiOTg4YzA3NDAwIiwidCI6IjRiNGM1YWRkLTJjZWItNDIwYi1iYzZmLTRmOGU1YjI5NDdiZCJ9
 
 # Data Architecture & Integration
-- Snowflake was used as the cloud data warehouse to store and prepare the marketing datasets before visualization.
+- **Snowflake** was used as the cloud data warehouse to store and prepare the marketing datasets before visualization.
 - A database named MK_DB was created in Snowflake.
 - Within this database, a schema named MK_SCHEMA was created.
 - Three CSV datasets (Facebook Ads, Google Ads, TikTok Ads) were uploaded into Snowflake and loaded into separate tables under this schema.
 - The datasets were standardized and combined using SQL transformations to create a unified view that aligns metrics across all channels.
-- This unified view served as the single source of truth and was connected to Power BI for reporting and dashboard creation.
+- This unified view served as the single source of truth and was connected to **Power BI** for reporting and dashboard creation.
 <img width="1918" height="915" alt="image" src="https://github.com/user-attachments/assets/185ff2f9-6e83-4f69-b8bc-71128ccd92ae" />
 
 ## SQL script used for data transformation and unified model creation:
