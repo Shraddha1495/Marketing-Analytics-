@@ -74,6 +74,7 @@ These controls allow users to quickly explore performance trends across time, ch
 
 # Key Performance Metrics
 • Total Spend: $130.24K
+
 • Total Impressions: 40.47M
 • Total Clicks: 688.33K
 • Total Conversions: 13.36K
