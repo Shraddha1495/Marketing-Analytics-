@@ -73,8 +73,8 @@ The report includes three slicers to enable dynamic analysis:
 These controls allow users to quickly explore performance trends across time, channels, and day types.
 
 # Key Performance Metrics
-• Total Spend: $130.24K 
-• Total Impressions: 40.47M 
+- Total Spend: $130.24K 
+- Total Impressions: 40.47M 
 • Total Clicks: 688.33K 
 • Total Conversions: 13.36K 
 • CTR: 1.70% 
